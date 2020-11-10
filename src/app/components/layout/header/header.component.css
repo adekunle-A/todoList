@@ -1,0 +1,14 @@
+.header {
+    background: rgb(24, 78, 122);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .navbar a:hover{
+    background-color: rgb(6, 39, 32);
+  }
